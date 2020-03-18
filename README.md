@@ -1,3 +1,8 @@
+**このリポジトリは現在使用しておらず、以下のリポジトリに移行しています。**
+https://github.com/gdg-fukushima/covid19
+
+**DO NOT CREATE ANY PULL REQUEST FOR THIS REPO.**
+
 # （非公式）福島県 新型コロナウイルス感染症情報サイト
 ※福島県の公式ではありません。
 このリポジトリのプロジェクトは、[東京都のプロジェクト](https://github.com/tokyo-metropolitan-gov/covid19)をフォークして派生させたものです。
